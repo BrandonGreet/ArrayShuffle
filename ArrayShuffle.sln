@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayShuffle", "ArrayShuffle\ArrayShuffle.csproj", "{A07D02C2-4807-4F14-8E33-7F2A06684759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07D02C2-4807-4F14-8E33-7F2A06684759}.Debug|x86.ActiveCfg = Debug|x86
+		{A07D02C2-4807-4F14-8E33-7F2A06684759}.Debug|x86.Build.0 = Debug|x86
+		{A07D02C2-4807-4F14-8E33-7F2A06684759}.Release|x86.ActiveCfg = Release|x86
+		{A07D02C2-4807-4F14-8E33-7F2A06684759}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
